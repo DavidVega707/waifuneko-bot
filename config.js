@@ -6,13 +6,16 @@ import fs from 'fs'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰ 
 global.owner = [
-  ['50258189429', '𝗪𝗮𝗶𝗳𝘂𝗡𝗲𝗸𝗼-𝗕𝗼𝘁 💖🐈', true]
-  ['50258189429', '𝗪𝗮𝗶𝗳𝘂𝗡𝗲𝗸𝗼-𝗕𝗼𝘁 💖🐈', true]
+  ['593993684821', '�����𝗡𝗲��-𝗕�� 💖🐈', true],
+  ['50498965677', '�����𝗡𝗲��-𝗕�� 2 💖🐈', true],
+  ['51993042301', '�����𝗡𝗲��-𝗕�� 3 💖🐈', true],
+  ['50495086382'],
+  ['593968585383'] 
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['50258189429'], 
+global.prems = ['528451003894'], 
 
 global.APIs = { // API Prefix.
   
@@ -77,8 +80,8 @@ global.Key360 = ['964f-0c75-7afc'] //keys ephoto360
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '🐈 𝗪𝗮𝗶𝗳𝘂𝗡𝗲𝗸𝗼-𝗕𝗼𝘁'
-global.author = '𝘋𝘢𝘷𝘪𝘥𝘝𝘦𝘨𝘢707'
+global.packname = '🐈 �����𝗡𝗲��-𝗕��'
+global.author = '�����𝘝���707'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -88,17 +91,17 @@ global.author = '𝘋𝘢𝘷𝘪𝘥𝘝𝘦𝘨𝘢707'
 global.vs = '1.2.12'
 global.version = vs
 
-global.gt = '𝗪𝗮𝗶𝗳𝘂𝗡𝗲𝗸𝗼-𝗕𝗼𝘁'
-global.waifunekobot = gt
+global.gt = '�����𝗡𝗲��-𝗕��'
+global.gatabot = gt
 
 global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
-global.youtasdfaddube = yt
+global.youtube = yt
 
 global.ig = 'https://www.instagram.com/gata_dios'
 global.gatadiosig = ig
 
 global.md = 'https://github.com/DavidVega707/waifuneko-bot'
-global.waifunekobot = md
+global.gatabot = md
 
 global.nn = 'https://chat.whatsapp.com/CunoFmEfBW75APfI0ZO5DJ'
 global.nngrupo = nn //Grupo 1
@@ -145,8 +148,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝗪𝗮𝗶𝗳𝘂𝗡𝗲𝗸𝗼-𝗕𝗼𝘁 | 𝘋𝘢𝘷𝘪𝘥𝘝𝘦𝘨𝘢707'
-global.igfg = '𝗪𝗮𝗶𝗳𝘂𝗡𝗲𝗸𝗼-𝗕𝗼𝘁'
+global.wm = '�����𝗡𝗲��-𝗕�� | �����𝘝���707'
+global.igfg = '�����𝗡𝗲��-𝗕��'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 //━━━━━━━━━━━━━━lolkeys━━━━━━━━━
