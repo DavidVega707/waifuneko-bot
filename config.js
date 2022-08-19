@@ -92,7 +92,7 @@ global.vs = '1.2.12'
 global.version = vs
 
 global.gt = '�����𝗡𝗲��-𝗕��'
-global.gatabot = gt
+global.waifunekobot = gt
 
 global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
 global.youtube = yt
@@ -101,7 +101,7 @@ global.ig = 'https://www.instagram.com/gata_dios'
 global.gatadiosig = ig
 
 global.md = 'https://github.com/DavidVega707/waifuneko-bot'
-global.gatabot = md
+global.waifunekobot = md
 
 global.nn = 'https://chat.whatsapp.com/CunoFmEfBW75APfI0ZO5DJ'
 global.nngrupo = nn //Grupo 1

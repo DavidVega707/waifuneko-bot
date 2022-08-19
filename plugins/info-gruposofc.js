@@ -31,7 +31,7 @@ conn.sendHydrated(m.chat, str, wm, media, 'https://github.com/DavidVega707/waifu
 ['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪 ☘️', '/menu']
 ], m,)}
 
-handler.command = /^linkgc|grupos|gruposgatabot|gatabotgrupos|gruposdegatabot|groupofc|gruposgb|grupogb|groupgb$/i
+handler.command = /^linkgc|grupos|gruposwaifunekobot|waifunekobotgrupos|gruposdewaifunekobot|groupofc|gruposgb|grupogb|groupgb$/i
 handler.exp = 33
 
 export default handler
